@@ -1,0 +1,7 @@
+C:\Users\Repackager\Desktop\Install-Fonts-Windows-main\InstallFonts\bin\Debug\InstallFonts.exe.config
+C:\Users\Repackager\Desktop\Install-Fonts-Windows-main\InstallFonts\bin\Debug\InstallFonts.exe
+C:\Users\Repackager\Desktop\Install-Fonts-Windows-main\InstallFonts\bin\Debug\InstallFonts.pdb
+C:\Users\Repackager\Desktop\Install-Fonts-Windows-main\InstallFonts\obj\Debug\InstallFonts.csprojAssemblyReference.cache
+C:\Users\Repackager\Desktop\Install-Fonts-Windows-main\InstallFonts\obj\Debug\InstallFonts.csproj.CoreCompileInputs.cache
+C:\Users\Repackager\Desktop\Install-Fonts-Windows-main\InstallFonts\obj\Debug\InstallFonts.exe
+C:\Users\Repackager\Desktop\Install-Fonts-Windows-main\InstallFonts\obj\Debug\InstallFonts.pdb
